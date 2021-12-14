@@ -1,0 +1,35 @@
+No. of examples in each cluster for the users
+      0     1
+0  0     2024
+1  1234  3259
+
+Accuracy for the cross validation set 50.27624 %
+
+No. of examples in each cluster for the users
+      0     1
+0  1213  3255
+1  0     2049
+
+Accuracy for the cross validation set 50.03069 %
+
+No. of examples in each cluster for the users
+     0     1
+0  923  3275
+1  295  2024
+
+Accuracy for the cross validation set 55.86249 %
+
+No. of examples in each cluster for the users
+      0     1
+0  1252  3233
+1  0     2032
+
+Accuracy for the cross validation set 48.68017 %
+
+No. of examples in each cluster for the users
+      0     1
+0  1235  3220
+1  0     2061
+
+Accuracy for the cross validation set 47.91411 %
+Accuracy for the Test set 54.49190 %

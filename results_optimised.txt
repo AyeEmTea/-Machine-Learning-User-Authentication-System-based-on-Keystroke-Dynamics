@@ -1,0 +1,221 @@
+Training data count of users:
+17EC35002  :  1254
+17EC35004  :  72
+17EC35035  :  489
+17EC10008  :  151
+17EC10026  :  2033
+17EC10063  :  958
+17EC35032  :  297
+17EC35045  :  43
+IMPOSTER_1  :  914
+IMPOSTER_2  :  306
+
+No. of examples in each cluster for the users
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  0          0          0          0          0          958         
+1  0          0          0          0          2033       0           
+2  1254       0          0          0          0          0           
+3  0          0          0          0          0          0           
+4  0          0          489        0          0          0           
+5  0          0          0          0          0          0           
+6  0          0          0          151        0          0           
+7  0          0          0          0          0          0           
+8  0          0          0          0          0          0           
+9  0          72         0          0          0          0           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  0          0          0           0           
+1  0          0          0           0           
+2  0          0          0           0           
+3  0          0          914         0           
+4  0          0          0           0           
+5  0          0          0           306         
+6  0          0          0           0           
+7  297        0          0           0           
+8  0          43         0           0           
+9  0          0          0           0           
+
+Final clusters assigned
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  2          9          4          6          1          0           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  7          8          3           5           
+Accuracy for the cross validation set 100.00000 %
+Training data count of users:
+17EC35002  :  1254
+17EC35004  :  73
+17EC35035  :  510
+17EC10008  :  146
+17EC10026  :  1995
+17EC10063  :  953
+17EC35032  :  319
+17EC35045  :  48
+IMPOSTER_1  :  921
+IMPOSTER_2  :  298
+
+No. of examples in each cluster for the users
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  0          0          0          0          1995       0           
+1  0          0          0          0          0          0           
+2  1254       0          0          0          0          0           
+3  0          0          0          0          0          953         
+4  0          0          510        0          0          0           
+5  0          0          0          0          0          0           
+6  0          0          0          0          0          0           
+7  0          0          0          146        0          0           
+8  0          0          0          0          0          0           
+9  0          73         0          0          0          0           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  0          0          0           0           
+1  0          0          921         0           
+2  0          0          0           0           
+3  0          0          0           0           
+4  0          0          0           0           
+5  0          0          0           298         
+6  319        0          0           0           
+7  0          0          0           0           
+8  0          48         0           0           
+9  0          0          0           0           
+
+Final clusters assigned
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  2          9          4          7          0          3           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  6          8          1           5           
+Accuracy for the cross validation set 100.00000 %
+Training data count of users:
+17EC35002  :  1270
+17EC35004  :  66
+17EC35035  :  515
+17EC10008  :  142
+17EC10026  :  1996
+17EC10063  :  939
+17EC35032  :  312
+17EC35045  :  42
+IMPOSTER_1  :  937
+IMPOSTER_2  :  298
+
+No. of examples in each cluster for the users
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  0          0          0          0          0          0           
+1  0          0          0          0          1996       0           
+2  1270       0          0          0          0          0           
+3  0          0          0          0          0          0           
+4  0          0          0          0          0          0           
+5  0          0          515        0          0          0           
+6  0          0          0          0          0          939         
+7  0          0          0          142        0          0           
+8  0          0          0          0          0          0           
+9  0          66         0          0          0          0           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  0          0          0           298         
+1  0          0          0           0           
+2  0          0          0           0           
+3  312        0          0           0           
+4  0          0          937         0           
+5  0          0          0           0           
+6  0          0          0           0           
+7  0          0          0           0           
+8  0          42         0           0           
+9  0          0          0           0           
+
+Final clusters assigned
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  2          9          5          7          1          6           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  3          8          4           0           
+Accuracy for the cross validation set 100.00000 %
+Training data count of users:
+17EC35002  :  1261
+17EC35004  :  68
+17EC35035  :  503
+17EC10008  :  144
+17EC10026  :  2018
+17EC10063  :  956
+17EC35032  :  316
+17EC35045  :  44
+IMPOSTER_1  :  913
+IMPOSTER_2  :  294
+
+No. of examples in each cluster for the users
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  0          0          503        0          0          0           
+1  0          0          0          0          2018       0           
+2  1261       0          0          0          0          0           
+3  0          0          0          0          0          0           
+4  0          0          0          0          0          0           
+5  0          0          0          0          0          956         
+6  0          0          0          0          0          0           
+7  0          0          0          144        0          0           
+8  0          0          0          0          0          0           
+9  0          68         0          0          0          0           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  0          0          0           0           
+1  0          0          0           0           
+2  0          0          0           0           
+3  316        0          0           0           
+4  0          0          913         0           
+5  0          0          0           0           
+6  0          0          0           294         
+7  0          0          0           0           
+8  0          44         0           0           
+9  0          0          0           0           
+
+Final clusters assigned
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  2          9          0          7          1          5           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  3          8          4           6           
+Accuracy for the cross validation set 100.00000 %
+Training data count of users:
+17EC35002  :  1261
+17EC35004  :  69
+17EC35035  :  491
+17EC10008  :  153
+17EC10026  :  2018
+17EC10063  :  958
+17EC35032  :  308
+17EC35045  :  43
+IMPOSTER_1  :  919
+IMPOSTER_2  :  296
+
+No. of examples in each cluster for the users
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  0          0          0          0          2018       0           
+1  1261       0          0          0          0          0           
+2  0          0          0          0          0          958         
+3  0          0          0          0          0          0           
+4  0          0          0          0          0          0           
+5  0          0          491        0          0          0           
+6  0          0          0          153        0          0           
+7  0          0          0          0          0          0           
+8  0          0          0          0          0          0           
+9  0          69         0          0          0          0           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  0          0          0           0           
+1  0          0          0           0           
+2  0          0          0           0           
+3  0          0          919         0           
+4  0          0          0           296         
+5  0          0          0           0           
+6  0          0          0           0           
+7  308        0          0           0           
+8  0          43         0           0           
+9  0          0          0           0           
+
+Final clusters assigned
+   17EC35002  17EC35004  17EC35035  17EC10008  17EC10026  17EC10063  \
+0  1          9          5          6          0          2           
+
+   17EC35032  17EC35045  IMPOSTER_1  IMPOSTER_2  
+0  7          8          3           4           
+Accuracy for the cross validation set 100.00000 %
+Accuracy for the Test set 100.00000 %

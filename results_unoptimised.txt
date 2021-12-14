@@ -1,0 +1,91 @@
+Training data count of users:
+17EC35002  :  1224
+17EC35004  :  60
+17EC35035  :  508
+17EC10008  :  150
+17EC10026  :  2040
+17EC10063  :  966
+17EC35032  :  304
+17EC35045  :  39
+IMPOSTER_1  :  923
+IMPOSTER_2  :  303
+
+No. of examples in each cluster for the users
+     0     1
+0  303  1519
+1  923  3772
+
+Accuracy for the cross validation set 63.22897 %
+Training data count of users:
+17EC35002  :  1201
+17EC35004  :  68
+17EC35035  :  499
+17EC10008  :  140
+17EC10026  :  2069
+17EC10063  :  952
+17EC35032  :  294
+17EC35045  :  47
+IMPOSTER_1  :  932
+IMPOSTER_2  :  315
+
+No. of examples in each cluster for the users
+      0     1
+0  0     2069
+1  1247  3201
+
+Accuracy for the cross validation set 47.63659 %
+Training data count of users:
+17EC35002  :  1238
+17EC35004  :  63
+17EC35035  :  504
+17EC10008  :  151
+17EC10026  :  2067
+17EC10063  :  942
+17EC35032  :  296
+17EC35045  :  45
+IMPOSTER_1  :  905
+IMPOSTER_2  :  306
+
+No. of examples in each cluster for the users
+     0     1
+0  306  4068
+1  905  1238
+
+Accuracy for the cross validation set 77.40945 %
+Training data count of users:
+17EC35002  :  1229
+17EC35004  :  70
+17EC35035  :  507
+17EC10008  :  148
+17EC10026  :  2048
+17EC10063  :  945
+17EC35032  :  309
+17EC35045  :  48
+IMPOSTER_1  :  902
+IMPOSTER_2  :  311
+
+No. of examples in each cluster for the users
+      0     1
+0  1213  4075
+1  0     1229
+
+Accuracy for the cross validation set 37.87600 %
+Training data count of users:
+17EC35002  :  1228
+17EC35004  :  71
+17EC35035  :  502
+17EC10008  :  151
+17EC10026  :  2028
+17EC10063  :  963
+17EC35032  :  305
+17EC35045  :  49
+IMPOSTER_1  :  926
+IMPOSTER_2  :  293
+
+No. of examples in each cluster for the users
+      0     1
+0  0     2028
+1  1219  3269
+
+Accuracy for the cross validation set 51.84049 %
+Accuracy for the Test set 75.40501 %
